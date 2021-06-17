@@ -1,6 +1,6 @@
 # waapi.in
 
-**WhatsApp Api Solution**
+**WhatsApp Api Solution**<br>
 Move Your Customer Services on WhatsApp.
 Your customers are active on **WhatsApp chat**, You can provide your services to them directly on WhatsApp.
 
@@ -12,12 +12,12 @@ Your customers are active on **WhatsApp chat**, You can provide your services to
 <li>Start Integrating WhatsApp API Get 7 days free trial.
 <li>Send WhatsApp messages globally with the waapi.in</li>
 
-
-**Whatsapp API Solution waapi.in**
+<br><br>
+**Whatsapp API Solution waapi.in** <br>
 About Whatsapp APIs by https://waapi.in
 Synchronize addresses, update social media links, send photos, messages, videos, and voice recordings over the internet Wi-Fi using your smartphone, PC, or laptop with WhatsApp APIs.
 
-**What is a WhatsApp API?**
+**What is a WhatsApp API?**<br>
 A WhatsApp application programming interface (API) adds communication functionality to applications. Access is made available through an internet Wi-Fi connection. With a WhatsApp API, business owners can send messages to their customers , like daily reminders, payment reminders, order details , any other notifications and reminders via waapi.
 How does a WhatsApp API work?
 WhatsApp API is a service that uses the GET / POST  request method to quickly retrieve / send  messages,images,videos,files. Developers can integrate in Websites, ERP , Software.
@@ -30,7 +30,7 @@ Why is an API for WhatsApp important?
 An API for WhatsApp uses the internet and Wi-Fi instead of a mobile network. This makes it appealing for businesses and consumers. Developers can best meet the needs of a market segment when they design applications with features that people utilize the most.
 Businesses can send large documents over WhatsApp, usually up to 100 MB. Whatever communication processes the API is designed to handle, businesses can use it to be more productive.
 
-**What can you expect from Whatsapp APIs?**
+**What can you expect from Whatsapp APIs?**<br>
 With APIs for WhatsApp, developers can expect to have much flexibility in creating applications with robust features and functionality For example, they can design an application with an API that focuses on synchronizing addresses, sending messages, both, or more. And they can do it all without having extra efforts for writing code in your programming language , all code is ready to use..
 In addition to speedily sending messages, businesses can look forward to saving time accomplishing routine and special business tasks. 
 You can start bulk whatsapp marketing through api.
