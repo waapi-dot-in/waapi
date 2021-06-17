@@ -1,5 +1,18 @@
 # waapi.in
 
+**WhatsApp Api Solution**
+Move Your Customer Services on WhatsApp.
+Your customers are active on **WhatsApp chat**, You can provide your services to them directly on WhatsApp.
+
+<li>Send messages by using your own number.
+<li>Send Text ,Images, Videos and Files by using API.
+<li>Send reminders to your customers by using API.
+<li>No setup fee for getting API access.
+<li>Visit now and book your demo on https://waapi.in 
+<li>Start Integrating WhatsApp API Get 7 days free trial.
+<li>Send WhatsApp messages globally with the waapi.in</li>
+
+
 **Whatsapp API Solution waapi.in**
 About Whatsapp APIs by https://waapi.in
 Synchronize addresses, update social media links, send photos, messages, videos, and voice recordings over the internet Wi-Fi using your smartphone, PC, or laptop with WhatsApp APIs.
@@ -23,6 +36,6 @@ In addition to speedily sending messages, businesses can look forward to saving 
 You can start bulk whatsapp marketing through api.
 Are there examples of free WhatsApp APIs?
 The waapi.in API providing 7 days trial plan , including unlimited requests and messages.
-
+ 
 visit https://waapi.in for more detail
 
